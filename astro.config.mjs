@@ -11,4 +11,5 @@ export default defineConfig({
     react(),
   ],
   site: `https://matekun-200.github.io`,
+  base: `/docs`,
 });
